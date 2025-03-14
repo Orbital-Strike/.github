@@ -1,1 +1,1 @@
-# .github
+![alt text](https://github.com/Orbital-Strike/.github/blob/main/profile/assets/profile.jpeg)
